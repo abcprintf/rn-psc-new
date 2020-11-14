@@ -1,4 +1,7 @@
-# React Native
+# React Native - ตัวอย่างสำหรับ น.ศ
+* ให้ Run ผ่านแอพ Expo
+* Android : [Download](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=th)
+* IOS : [Download](https://apps.apple.com/th/app/expo-client/id982107779)
 
 ## How to install
 
@@ -38,3 +41,4 @@ expo build:android
 | ------------ | ------- |
 | React Native | 0.63    |
 | NativeBase   | 2.13.14 |
+| Expo (SDK)   | 39      |
