@@ -17,12 +17,12 @@
       "**/*"
     ],
     "ios": {
-      "bundleIdentifier": "com.abcprintf.pscnew",
+      "bundleIdentifier": "th.ac.pongsawadi.bit.024920",
       "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
-      "package": "com.abcprintf.pscnew",
+      "package": "th.ac.pongsawadi.bit.024920",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
